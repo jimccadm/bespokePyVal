@@ -1,7 +1,3 @@
-Here is a sample `README.md` for your GitHub repository based on the three Python scripts you provided:
-
----
-
 # LLM Response Validator
 
 This repository consists of three Python scripts that demonstrate how to use two different Large Language Models (LLMs) for generating answers to human questions and validating the sufficiency of the answers.
